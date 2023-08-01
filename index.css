@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: aliceblue;
+}
+a {
+    text-decoration: none;
+    font-size: 32px;
+    display: block;
+    color: black;
+}
+.h1 {
+
+}
+
+.bride {
+    background-color: aquamarine;
+    height: 800px;
+}
+.groom {
+    background-color: aqua;
+    height: 800px;
+}
