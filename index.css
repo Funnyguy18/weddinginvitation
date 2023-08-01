@@ -14,9 +14,13 @@ a {
 
 .bride {
     background-color: aquamarine;
-    height: 800px;
+    height: 33.33%;
 }
 .groom {
     background-color: aqua;
-    height: 800px;
+    height: 33.33%;
+}
+.venue {
+    background-color: lightgrey;
+    height: 33.33%;
 }
